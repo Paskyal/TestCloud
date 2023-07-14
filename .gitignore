@@ -1,0 +1,6 @@
+.alpackages/
+/.vscode/rad.json
+/.vscode/launch.json
+.alcache/
+.altemplates/
+*.app

@@ -1,0 +1,23 @@
+{
+    "git.enableSmartCommit": true,
+    "al.enableCodeActions": true,
+    "al.enableCodeAnalysis": true,
+
+    "al.codeAnalyzers": [
+        "${CodeCop}",
+        "${PerTenantExtensionCop}",
+        "${AppSourceCop}",
+        "${UICop}",
+    ],
+
+    "al.ruleSetPath": "./.codeAnalysis/al.ruleset.json",
+    "CRS.ObjectNamePrefix": "ENA ",
+    "CRS.FileNamePattern": "<ObjectTypeShort><ObjectId>.<ObjectNameShort>.al",
+    "CRS.FileNamePatternExtensions": "<ObjectTypeShort><BaseId>-<ObjectId>-<ObjectNameShort>Ext.al",
+    "CRS.OnSaveAlFileAction": "Rename",
+    "al.assemblyProbingPaths": [
+        "./.netpackages",
+        "C:/Windows/assembly",
+        "C:/Program Files/Microsoft Dynamics 365 Business Central/170/Service/Add-ins"
+    ]
+}
