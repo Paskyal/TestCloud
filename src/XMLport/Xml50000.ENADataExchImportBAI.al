@@ -156,12 +156,11 @@ xmlport 50000 "ENA Data Exch. Import - BAI"
             columnNumber = 1: // inserts the transaction date YYMMDD
                 InsertDataExchField(100, TransactionDate); // Column 100 must be defined in Data Exchange Definition
             columnNumber = 2:
-                begin  // transaction code
-                    Message('Test'); //todelete
-                    // TransactionCode := savedColumnValue;
-                    // Evaluate(TrasactionCodeInt, TransactionCode);
-                    InsertDataExchField(columnNumber, savedColumnValue);
-                end;
+                // begin  // transaction code
+                // TransactionCode := savedColumnValue;
+                // Evaluate(TrasactionCodeInt, TransactionCode);
+                InsertDataExchField(columnNumber, savedColumnValue);
+        //end;
 
         end;
     end;

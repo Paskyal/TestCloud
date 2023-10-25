@@ -2,7 +2,7 @@
   "id": "36f9b014-1b07-447f-b494-382bebc6976a",
   "name": "TestCloud",
   "publisher": "Default publisher",
-  "version": "1.0.0.0",
+  "version": "1.0.0.1",
   "brief": "",
   "description": "",
   "privacyStatement": "",
@@ -10,7 +10,9 @@
   "help": "",
   "url": "",
   "logo": "",
-  "dependencies": [],
+  "dependencies": [
+   
+  ],
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "21.5.53619.53813",
@@ -25,7 +27,7 @@
     "allowDownloadingSource": true,
     "includeSourceInSymbolFile": true
   },
-  "runtime": "10.0",
+  "runtime": "11.1",
   "features": [
     "TranslationFile"
   ],

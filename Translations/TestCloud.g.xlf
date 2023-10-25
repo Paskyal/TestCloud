@@ -3,6 +3,581 @@
   <file datatype="xml" source-language="en-US" target-language="en-US" original="TestCloud">
     <body>
       <group id="body">
+        <trans-unit id="Table 2324888386 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enavation G/L Account</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ENA Enavation G/L Account - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2324888386 - Field 3699788827 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Account Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ENA Enavation G/L Account - Field Account Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2324888386 - Field 3730000841 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Balance at Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ENA Enavation G/L Account - Field Balance at Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2324888386 - Field 2428101916 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Business Unit Filter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ENA Enavation G/L Account - Field Business Unit Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2324888386 - Field 995090288 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date Filter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ENA Enavation G/L Account - Field Date Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2324888386 - Field 2310296825 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimension Set ID Filter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ENA Enavation G/L Account - Field Dimension Set ID Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2324888386 - Field 2827996325 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enavation G/L Account No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ENA Enavation G/L Account - Field Enavation G/L Account No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2324888386 - Field 3852983238 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>G/L Account No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ENA Enavation G/L Account - Field G/L Account No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2324888386 - Field 1303377601 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Global Dimension 1 Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ENA Enavation G/L Account - Field Global Dimension 1 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2324888386 - Field 1861213814 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Global Dimension 1 Filter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ENA Enavation G/L Account - Field Global Dimension 1 Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2324888386 - Field 1337243520 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Global Dimension 2 Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ENA Enavation G/L Account - Field Global Dimension 2 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2324888386 - Field 588326355 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Global Dimension 2 Filter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ENA Enavation G/L Account - Field Global Dimension 2 Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2324888386 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ENA Enavation G/L Account - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2324888386 - Field 2304016699 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Net Change</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ENA Enavation G/L Account - Field Net Change - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2324888386 - Field 781257514 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shortcut Dimension 3 Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ENA Enavation G/L Account - Field Shortcut Dimension 3 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2324888386 - Field 2711388939 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shortcut Dimension 4 Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ENA Enavation G/L Account - Field Shortcut Dimension 4 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2324888386 - Field 405681708 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shortcut Dimension 5 Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ENA Enavation G/L Account - Field Shortcut Dimension 5 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2324888386 - Field 4126842061 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shortcut Dimension 6 Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ENA Enavation G/L Account - Field Shortcut Dimension 6 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2324888386 - Field 2765633070 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shortcut Dimension 7 Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ENA Enavation G/L Account - Field Shortcut Dimension 7 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2324888386 - Field 785667711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shortcut Dimension 8 Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ENA Enavation G/L Account - Field Shortcut Dimension 8 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2324888386 - Field 478049462 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Totaling</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ENA Enavation G/L Account - Field Totaling - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 14425252 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enavation G/L Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ENA Enavation G/L Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 14425252 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ENA Enavation G/L Setup - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 14425252 - Field 2830778807 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enable G/L Segments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ENA Enavation G/L Setup - Field Enable G/L Segments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 14425252 - Field 1049035230 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Segment 1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ENA Enavation G/L Setup - Field Segment 1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 14425252 - Field 3430912675 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Segment 2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ENA Enavation G/L Setup - Field Segment 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 14425252 - Field 4068609292 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Segment 3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ENA Enavation G/L Setup - Field Segment 3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 14425252 - Field 2155519441 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Segment 4</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ENA Enavation G/L Setup - Field Segment 4 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 14425252 - Field 2793216058 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Segment 5</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ENA Enavation G/L Setup - Field Segment 5 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 14425252 - Field 4238859426 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Segment Separator</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ENA Enavation G/L Setup - Field Segment Separator - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 14425252 - Field 2823903515 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Update Segment During Posting</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ENA Enavation G/L Setup - Field Update Segment During Posting - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 590686824 - Method 1693034914 - NamedType 3359697259" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No Lines on Account Schedule.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit ENA Enavation G/L Management - Method ExplodeAccSch - NamedType NoLinesErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 590686824 - Method 1693034914 - NamedType 3359346839" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No Lines to Explode.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit ENA Enavation G/L Management - Method ExplodeAccSch - NamedType NoLinesToExplodeErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 590686824 - Method 192962846 - NamedType 1611752292" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Action cancelled by user.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit ENA Enavation G/L Management - Method UpdateExpAccSchName - NamedType ActionCancelledErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 590686824 - Method 192962846 - NamedType 420480428" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You must first assign an Account Schedule for the exploded lines. Do you wish to continue.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit ENA Enavation G/L Management - Method UpdateExpAccSchName - NamedType MustAssignExplAccSchQst</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 590686824 - Method 192962846 - NamedType 596577232" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you wish to select another Account Schedule.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit ENA Enavation G/L Management - Method UpdateExpAccSchName - NamedType SelectAnotherAccSchQst</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 590686824 - Method 192962846 - NamedType 4037198471" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This will update Account Schedule %1. Do you wish to continue.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit ENA Enavation G/L Management - Method UpdateExpAccSchName - NamedType UpdateExistingAccSchQst</note>
+        </trans-unit>
+        <trans-unit id="Report 4207412297 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Detail Trial Balance</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Detail Trial Balance - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4207412297 - Property 3863440606" size-unit="char" translate="yes" xml:space="preserve">
+          <source>payment due,order status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Detail Trial Balance - Property AdditionalSearchTerms</note>
+        </trans-unit>
+        <trans-unit id="Report 4207412297 - NamedType 1653612302" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This also includes general ledger accounts that only have a balance.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Detail Trial Balance - NamedType BalanceCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 4207412297 - NamedType 3050590124" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Detail Trial Balance</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Detail Trial Balance - NamedType DetailTrialBalCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 4207412297 - NamedType 1329984159" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enavation No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Detail Trial Balance - NamedType EnavationAccountNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 4207412297 - NamedType 4271586908" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Balance</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Detail Trial Balance - NamedType GLBalCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 4207412297 - NamedType 4073918050" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Credit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Detail Trial Balance - NamedType GLEntryCreditAmtCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 4207412297 - NamedType 1557897815" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Debit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Detail Trial Balance - NamedType GLEntryDebitAmtCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 4207412297 - NamedType 2171017903" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Net Change</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Detail Trial Balance - NamedType NetChangeCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 4207412297 - NamedType 3034285687" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Only corrections are included.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Detail Trial Balance - NamedType OnlyCorrectionsCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 4207412297 - NamedType 650077689" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Detail Trial Balance - NamedType PageCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 4207412297 - NamedType 2716332507" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This report also includes closing entries within the period.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Detail Trial Balance - NamedType PeriodCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 4207412297 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Period: %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Detail Trial Balance - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Report 4207412297 - ReportLabel 1417132027" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Beginning Balance</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Detail Trial Balance - ReportLabel BeginningBalanceCaption</note>
+        </trans-unit>
+        <trans-unit id="Report 4207412297 - ReportLabel 335333379" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Credit Total</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Detail Trial Balance - ReportLabel CreditTotalCaption</note>
+        </trans-unit>
+        <trans-unit id="Report 4207412297 - ReportLabel 3138513454" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Debit Total</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Detail Trial Balance - ReportLabel DebitTotalCaption</note>
+        </trans-unit>
+        <trans-unit id="Report 4207412297 - ReportLabel 567180089" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Detail Trial Balance - ReportLabel DescCaption</note>
+        </trans-unit>
+        <trans-unit id="Report 4207412297 - ReportLabel 4204010505" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Detail Trial Balance - ReportLabel DocNoCaption</note>
+        </trans-unit>
+        <trans-unit id="Report 4207412297 - ReportLabel 326179949" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Detail Trial Balance - ReportLabel EntryNoCaption</note>
+        </trans-unit>
+        <trans-unit id="Report 4207412297 - ReportLabel 3510610389" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Grand Total Ending Balance</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Detail Trial Balance - ReportLabel GrandTotalEndingBalanceCaption</note>
+        </trans-unit>
+        <trans-unit id="Report 4207412297 - ReportLabel 2020178030" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Detail Trial Balance - ReportLabel PostingDateCaption</note>
+        </trans-unit>
+        <trans-unit id="Report 4207412297 - ReportLabel 411389942" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Detail Trial Balance - ReportLabel SourceNoCaption</note>
+        </trans-unit>
+        <trans-unit id="Report 4207412297 - ReportLabel 3822561807" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tax Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Detail Trial Balance - ReportLabel VATAmtCaption</note>
+        </trans-unit>
+        <trans-unit id="Report 4207412297 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Detail Trial Balance - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4207412297 - Control 3183705145 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you do not want the report to include entries for G/L accounts that have a balance but do not have a net change during the selected time period.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Detail Trial Balance - Control ExcludeGLAccsHaveBalanceOnly - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 4207412297 - Control 3183705145 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Exclude G/L Accs. That Have a Balance Only</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Detail Trial Balance - Control ExcludeGLAccsHaveBalanceOnly - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4207412297 - Control 3201262307 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want the report to include closing entries. This is useful if the report covers an entire fiscal year. Closing entries are listed on a fictitious date between the last day of one fiscal year and the first day of the next one. They have a C before the date, such as C123194. If you do not select this field, no closing entries are shown.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Detail Trial Balance - Control InclClosingEntriesWithinPeriod - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 4207412297 - Control 3201262307 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Include Closing Entries Within the Period</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Detail Trial Balance - Control InclClosingEntriesWithinPeriod - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4207412297 - Control 3414096222 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want to include reversed entries in the report.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Detail Trial Balance - Control IncludeReversedEntries - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 4207412297 - Control 3414096222 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Include Reversed Entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Detail Trial Balance - Control IncludeReversedEntries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4207412297 - Control 3214291206 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if each G/L account information is printed on a new page if you have chosen two or more G/L accounts to be included in the report.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Detail Trial Balance - Control NewPageperGLAcc - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 4207412297 - Control 3214291206 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New Page per G/L Acc.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Detail Trial Balance - Control NewPageperGLAcc - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4207412297 - Control 4258595164 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want the report to show only the entries that have been reversed and their matching correcting entries.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Detail Trial Balance - Control PrintCorrectionsOnly - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 4207412297 - Control 4258595164 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print Corrections Only</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Detail Trial Balance - Control PrintCorrectionsOnly - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4207412297 - Control 3874476544 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enavation Account No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Detail Trial Balance - Control SegmentName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4207412297 - Control 4271235006 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a filter for Segment 1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Detail Trial Balance - Control Segment 1 Filter - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 4207412297 - Control 2624474875 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a filter for Segment 2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Detail Trial Balance - Control Segment 2 Filter - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 4207412297 - Control 3399997468 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a filter for Segment 3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Detail Trial Balance - Control Segment 3 Filter - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 4207412297 - Control 2003988889 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a filter for Segment 4</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Detail Trial Balance - Control Segment 4 Filter - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 4207412297 - Control 701423738 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a filter for Segment 5</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Detail Trial Balance - Control Segment 5 Filter - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3176766061 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Trial Balance Detail/Summary</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Trial Bal. Detail/Summary - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3176766061 - NamedType 1653612302" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Balance</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Trial Bal. Detail/Summary - NamedType BalanceCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3176766061 - NamedType 1983475458" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Balance Forward</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Trial Bal. Detail/Summary - NamedType Balance_ForwardCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3176766061 - NamedType 2073440522" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Balance to Carry Forward</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Trial Bal. Detail/Summary - NamedType Balance_to_Carry_ForwardCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3176766061 - NamedType 727194507" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Beginning Balances are set to zero due to existence of G/L Entry filters.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Trial Bal. Detail/Summary - NamedType BalZeroCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3176766061 - NamedType 3825472096" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Beginning Balance</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Trial Bal. Detail/Summary - NamedType Beginning_BalanceCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3176766061 - NamedType 3180035272" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Credit Activities</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Trial Bal. Detail/Summary - NamedType CreditAmount_Control76CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3176766061 - NamedType 1291241717" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Credit Activities</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Trial Bal. Detail/Summary - NamedType CreditAmount_Control86CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3176766061 - NamedType 1987762555" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Trial Bal. Detail/Summary - NamedType CurrReport_PAGENOCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3176766061 - NamedType 3996075848" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Debit Activities</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Trial Bal. Detail/Summary - NamedType DebitAmount_Control75CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3176766061 - NamedType 1490822805" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Debit Activities</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Trial Bal. Detail/Summary - NamedType DebitAmount_Control85CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3176766061 - NamedType 542980086" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ending Balance</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Trial Bal. Detail/Summary - NamedType Ending_BalanceCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3176766061 - NamedType 4013601236" size-unit="char" translate="yes" xml:space="preserve">
+          <source>External Doc. No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Trial Bal. Detail/Summary - NamedType ExternalDocNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3176766061 - NamedType 1203846557" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Accounts without activities during the above period are not included.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Trial Bal. Detail/Summary - NamedType NoActCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3176766061 - NamedType 514016558" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Accounts without activities or balances during the above period are not included.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Trial Bal. Detail/Summary - NamedType NoBalCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3176766061 - NamedType 3006029942" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Trial Bal. Detail/Summary - NamedType PADSTR_____G_L_Account__Indentation_____G_L_Account__NameCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3176766061 - NamedType 1205623021" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Report Total Activities</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Trial Bal. Detail/Summary - NamedType ReportTotalActivitiesCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3176766061 - NamedType 187183641" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Report Total Beginning Balance</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Trial Bal. Detail/Summary - NamedType ReportTotalBegBalCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3176766061 - NamedType 1230862812" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Report Total Ending Balance</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Trial Bal. Detail/Summary - NamedType ReportTotalEndBalCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3176766061 - NamedType 2059164189" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Report Totals</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Trial Bal. Detail/Summary - NamedType ReportTotalsCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3176766061 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Includes Activities from %1 to %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Trial Bal. Detail/Summary - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Report 3176766061 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amounts are in %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Trial Bal. Detail/Summary - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Report 3176766061 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Account: %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Trial Bal. Detail/Summary - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Report 3176766061 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Detail Trial Balance</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Trial Bal. Detail/Summary - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Report 3176766061 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Summary Trial Balance</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Trial Bal. Detail/Summary - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Report 3176766061 - NamedType 2689386446" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Activities</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Trial Bal. Detail/Summary - NamedType Total_ActivitiesCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3176766061 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Trial Bal. Detail/Summary - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3176766061 - Control 428640664 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want to print each account on a separate page. Each account will begin at the top of the following page. Otherwise, each account will follow the previous account on the current page.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Trial Bal. Detail/Summary - Control OnlyOnePerPage - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3176766061 - Control 428640664 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New page per Account</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Trial Bal. Detail/Summary - Control OnlyOnePerPage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3176766061 - Control 2370722052 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want the report to include the source names that are attached to each transaction. A source name is the name of a customer or item that has a code attached. This option is only valid if you have also selected the Print Transaction Detail field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Trial Bal. Detail/Summary - Control PrintSourceNames - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3176766061 - Control 2370722052 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print Source Names</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Trial Bal. Detail/Summary - Control PrintSourceNames - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3176766061 - Control 1078551120 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want the details of each transaction to be included in the report. A detailed report will have a list of each account entry. Otherwise, only the totals of the transactions will be included.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Trial Bal. Detail/Summary - Control PrintTransactionDetail - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3176766061 - Control 1078551120 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print Transaction Detail</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Trial Bal. Detail/Summary - Control PrintTransactionDetail - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3176766061 - Control 366713437 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies which accounts to include. All Accounts: Includes all accounts with transactions. Accounts with Balances: Includes accounts with balances. Accounts with Activity: Includes accounts that are currently active.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Trial Bal. Detail/Summary - Control Show - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3176766061 - Control 366713437 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Trial Bal. Detail/Summary - Control Show - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3176766061 - Control 366713437 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>All Accounts,Accounts with Balances,Accounts with Activities</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Trial Bal. Detail/Summary - Control Show - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Report 3176766061 - Control 2454743061 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want all amounts to be printed by using the additional reporting currency. If you do not select the check box, then all amounts will be printed in US dollars.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Trial Bal. Detail/Summary - Control UseAdditionalReportingCurrency - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3176766061 - Control 2454743061 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use Additional Reporting Currency</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ENA Trial Bal. Detail/Summary - Control UseAdditionalReportingCurrency - Property Caption</note>
+        </trans-unit>
         <trans-unit id="XmlPort 308232948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Data Exch. Import - BAI</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -22,6 +597,76 @@
           <source>The imported file contains unexpected formatting. One or more headers are incorrect.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">XmlPort ENA Data Exch. Import - BAI - NamedType WrongHeaderErr</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1540383402 - Field 1642963489 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1018831744">
+          <source>Enavation Acct. No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ENA Acc. Schedule Line - Field ENA Enavation Acct. No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1540383402 - Field 340393849 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1018831744">
+          <source>Explode Enavation Acct. No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ENA Acc. Schedule Line - Field ENA Explode Enavation Acct. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1319506001 - Field 1806134247 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4206333399">
+          <source>Enavation Acc. Sch. Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ENA Acc. Schedule Name - Field ENA Enavation Acc. Sch. Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 831493949 - Field 1993084438 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2825951060">
+          <source>ENA Enavation G/L Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ENA Enavation G/L Entry - Field ENA Enavation G/L Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1620939440 - EnumValue 1371923692 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ENA Enavation G/L Segment - EnumValue   - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1620939440 - EnumValue 3852983238 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>G/L Account No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ENA Enavation G/L Segment - EnumValue G/L Account No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1620939440 - EnumValue 603791030 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Global Dimension 1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ENA Enavation G/L Segment - EnumValue Global Dimension 1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1620939440 - EnumValue 2985668475 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Global Dimension 2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ENA Enavation G/L Segment - EnumValue Global Dimension 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1620939440 - EnumValue 1232494661 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shortcut Dimension 3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ENA Enavation G/L Segment - EnumValue Shortcut Dimension 3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1620939440 - EnumValue 2338978872 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shortcut Dimension 4</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ENA Enavation G/L Segment - EnumValue Shortcut Dimension 4 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1620939440 - EnumValue 1701282255 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shortcut Dimension 5</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ENA Enavation G/L Segment - EnumValue Shortcut Dimension 5 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1620939440 - EnumValue 3614372106 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shortcut Dimension 6</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ENA Enavation G/L Segment - EnumValue Shortcut Dimension 6 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1620939440 - EnumValue 2976675489 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shortcut Dimension 7</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ENA Enavation G/L Segment - EnumValue Shortcut Dimension 7 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1620939440 - EnumValue 1401403684 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shortcut Dimension 8</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ENA Enavation G/L Segment - EnumValue Shortcut Dimension 8 - Property Caption</note>
         </trans-unit>
       </group>
     </body>
